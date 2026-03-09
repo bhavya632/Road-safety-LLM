@@ -1,0 +1,13 @@
+Collecting blosc2==2.0.0
+  Obtaining dependency information for blosc2==2.0.0 from https://files.pythonhosted.org/packages/11/ef/bb92803ec77ce71c0a2098ae21bb6c06ae4b0a6c5ba60bdc3b1caa86d08a/blosc2-2.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Downloading blosc2-2.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (11 kB)
+Collecting cython
+  Obtaining dependency information for cython from https://files.pythonhosted.org/packages/93/03/e330b241ad8aa12bb9d98b58fb76d4eb7dcbe747479aab5c29fce937b9e7/Cython-3.0.11-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Downloading Cython-3.0.11-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.2 kB)
+Requirement already satisfied: msgpack in /home/mfox/anaconda3/lib/python3.11/site-packages (from blosc2==2.0.0) (1.0.3)
+Downloading blosc2-2.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.9/3.9 MB 20.7 MB/s eta 0:00:00
+Downloading Cython-3.0.11-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.6/3.6 MB 24.3 MB/s eta 0:00:00
+Installing collected packages: cython, blosc2
+Successfully installed blosc2-2.0.0 cython-3.0.11
