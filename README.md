@@ -81,7 +81,3 @@ Place the sample datasets in the `/datasets` folder. Example files:
 - `Harsh_Acceleration_Severity_Ranking.csv`
 ---
 For any questions or contributions, please reach out to the project maintainers or open an issue in this repository.
-
-=======
-# Road-safety-LLM
->>>>>>> 2ec57581a58f2881b6ac0800adb3f18219f46424
