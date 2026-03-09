@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Road Safety Intelligence with Augmented LLM
 
 Welcome to the **Road Safety Intelligence with Augmented LLM** project, developed as part of the Fall 2024 AI Studio program in collaboration with Michelin Mobility Intelligence.
@@ -89,3 +90,6 @@ Place the sample datasets in the `/datasets` folder. Example files:
 ---
 For any questions or contributions, please reach out to the project maintainers or open an issue in this repository.
 
+=======
+# Road-safety-LLM
+>>>>>>> 2ec57581a58f2881b6ac0800adb3f18219f46424
