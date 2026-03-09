@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Road Safety Intelligence with Augmented LLM
 
 Welcome to the **Road Safety Intelligence with Augmented LLM** project, developed as part of the Fall 2024 AI Studio program in collaboration with Michelin Mobility Intelligence.
@@ -40,13 +39,6 @@ The project follows a structured approach:
 2. Integrate multi-dataset analysis capabilities.
 3. Deploy the application to a cloud environment for better performance.
 4. Implement direct code execution within the Streamlit interface for seamless user interaction.
-
-## Individual Contributions
-- **Michaela Fox**: Data cleaning, prompt engineering, model training and evaluation, and Streamlit app development.
-- **Bhavya Agarwal**: Data cleaning, model testing, and documentation.
-- **Ramsha Rauf**: Data cleaning, prompt engineering, and Streamlit app development.
-- **Sristi Panchu**: Data cleaning and documentation.
-- **Christina Tran**: Streamlit app development and documentation.
 
 ## Installation Instructions
 
