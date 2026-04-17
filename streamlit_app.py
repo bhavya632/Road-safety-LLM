@@ -40,14 +40,13 @@ import streamlit as st
 import pandas as pd
 from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
-from langchain.callbacks.manager import CallbackManager
-from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
+from langchain_core.callbacks import CallbackManager
+from langchain_core.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
 # Load datasets
-crash_df = pd.read_csv("/home/mfox/Road-Safety-LLM/Datasets/Crash data_LA_county.csv")
+crash_df = pd.read_csv("Datasets/Crash data_LA_county.csv")
 acceleration_df = pd.read_csv(
-    "/home/mfox/Road-Safety-LLM/Datasets/Harsh Acceleration_Severity_Ranking_Clustering_"
-    "LA_COUNTY_H10.csv"
+    "Datasets/Harsh Acceleration_Severity_Ranking_Clustering_LA_COUNTY_H10.csv"
 )
 
 # Preprocess the crash dataset
